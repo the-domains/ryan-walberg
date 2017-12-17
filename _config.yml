@@ -96,7 +96,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: This site will highlight my professional work.
+description: Good summary goes here.
 purpose:
   - type: contact
     url: 'mailto:ryan.walberg@gmail.com'

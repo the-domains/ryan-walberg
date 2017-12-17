@@ -1,0 +1,111 @@
+typography_spectrum: 0.21514596277847886
+color:
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.8697737576439977
+  lightness: 0.9444041070528328
+  saturation: 0.7166976451408118
+  rhythmicContrast: 0.18165775761008263
+layout_spectrum: 0.03545312536880374
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/653e90b8-cb1d-49cf-953d-71905a97d898.png
+name: Ryan Walberg
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Content 4
+    id: 2ced3ccb-6a8e-43a2-88ac-8e065d00f310
+    type: content
+  - name: Google
+    url: 'https://google.com'
+    type: external
+title: Ryan Walberg
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWmokJQi4Szw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWmokJQi4Szw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWmokJQi4Szw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=WmokJQi4Szw'
+      keywords:
+        - ''
+      related: []
+      author:
+        - name: Emirhan ÖZKAN
+          url: 'https://www.youtube.com/user/ozgemir08'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: City - Website Video Background HD 1080p
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=WmokJQi4Szw&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=WmokJQi4Szw&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=WmokJQi4Szw&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=WmokJQi4Szw&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=WmokJQi4Szw&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=WmokJQi4Szw'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=WmokJQi4Szw
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=WmokJQi4Szw
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      description: Uploaded by Emirhan ÖZKAN on 2016-05-03.
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: This site will highlight my professional work.
+purpose:
+  - type: contact
+    url: 'mailto:ryan.walberg@gmail.com'
+    label: Contact me
+github: true
+author:
+  name: Ryan Walberg
+  url: 'http://ryanwalberg.com'
+  email: ryan.walberg@gmail.com
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/afcecab6-76f4-482e-8070-86387b5357a5.png

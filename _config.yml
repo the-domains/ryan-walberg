@@ -11,8 +11,7 @@ color:
   saturation: 0.7166976451408118
   rhythmicContrast: 0.18165775761008263
 layout_spectrum: 0.03545312536880374
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/653e90b8-cb1d-49cf-953d-71905a97d898.png
+logo: null
 name: Ryan Walberg
 colors:
   brandColors:
